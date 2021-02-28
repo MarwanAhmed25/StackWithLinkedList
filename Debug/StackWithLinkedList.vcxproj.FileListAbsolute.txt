@@ -1,0 +1,2 @@
+F:\Mohamed Moshrief Course\ADataStructure\StackWithLinkedList\Debug\StackWithLinkedList.exe
+F:\Mohamed Moshrief Course\ADataStructure\StackWithLinkedList\Debug\StackWithLinkedList.pdb
